@@ -46,7 +46,7 @@ Dissertativas
 
 12. Para que serve a instrução “use strict” no início do arquivo Js?
 
-**Basicamente o “use strict” nos possibilita colocar um programa ou uma função para que ela opere em modo estrito (‘strict’). Esse contexto estrito previne algumas ações de serem tomadas e envia mais exceções. A linha use strict instrui o navegador para usar o modo Estrito, que é como se fosse uma versão mais segura e reduzida do JavaScript.**
+      **Basicamente o “use strict” nos possibilita colocar um programa ou uma função para que ela opere em modo estrito (‘strict’). Esse contexto estrito previne algumas ações de serem tomadas e envia mais exceções. A linha use strict instrui o navegador para usar o modo Estrito, que é como se fosse uma versão mais segura e reduzida do JavaScript.**
 
 
 13. Escreva a tecla de atalho, ou botão, ou item de menu no VSCode para:
