@@ -1,0 +1,23 @@
+Entrar na cozinha
+Abrir a porta da geladeira
+Pegar os ingredientes (maionese, queijo, presunto)
+Fechar a porta da geladeira
+Colocar os ingredientes na mesa
+Pegar o saco do pão francês na mesa
+Retira um pão francês do saco
+Pegar uma faca
+Cortar o pão francês ao meio com a faca
+Abrir o pote de maionese
+Passar a faca na maionese
+Passar a faca com a maionese no pão
+Fechar o pote de maionese
+Pegar fatias de presunto
+Colocar as fatias do presunto no pão
+Pegar uma fatia de queijo
+Colocar a fatia de queijo no pão
+Fechar o sanduíche
+Abrir a geladeira
+Guardar a maionese, presunto e queijo
+Fechar a geladeira
+Pegar o sanduíche
+Comer o sanduíche
