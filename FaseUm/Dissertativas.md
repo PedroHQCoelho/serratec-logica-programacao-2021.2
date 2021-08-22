@@ -1,3 +1,5 @@
+Dissertativas
+
 1. Qual analogia nós usamos na aula para representar a memória do computador, seus espaços, e conteúdos?
 
     **Um estacionamento de carros com suas vagas e sinalizações.**
@@ -32,7 +34,7 @@
 
 9. Faz diferença nas linguagens de programação próxima do C, como Java ou JavaScript, escrever instruções em maiúsculas ou minúsculas? Justifique.
 
-**Faz diferença sim, pois se tratam de linguagens case-sensitive, onde elas diferenciam uma mesma letra sendo maiúscula ou minúscula, palavras como name e Name são tratadas como diferentes em programas que usam essas linguagens.**
+      **Faz diferença sim, pois se tratam de linguagens case-sensitive, onde elas diferenciam uma mesma letra sendo maiúscula ou minúscula, palavras como name e Name são tratadas como diferentes em programas que usam essas linguagens.**
 
 10. O que faz o comando console.log? Qual a diferença entre este e o document.write?
 
@@ -40,7 +42,7 @@
 
 11. Como fazer uma quebra de linha no texto do console?
 
-**\n**
+      **\n**
 
 12. Para que serve a instrução “use strict” no início do arquivo Js?
 
