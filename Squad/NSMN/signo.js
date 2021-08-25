@@ -22,6 +22,8 @@ var capricornio = ((mes == 12 && dia >= 22) || (mes == 1 && dia <= 20));
 var aquario = ((mes == 1 && dia >= 21) || (mes == 2 && dia <= 18));
 var peixes = ((mes == 2 && dia >= 19) || (mes == 3 && dia <= 20));
 
+
+
 if (aries) {
     console.log(nome + ", Seu signo é Aries, parabéns. Não vou ser uma chama branda,  se eu nasci em fogo intenso. Você foi a melhor coisa que desapareceu da minha vida. Se minha sinceridade te assusta, é melhor nem chegar perto. Sou um amorzinho, mas para seu próprio bem, não me tire do sério.");
 }
@@ -36,7 +38,6 @@ else if (cancer) {
 }
 else if (leao) {
     console.log(nome + ", Seu signo é Leao, parabéns. Tudo o que vai volta, mas nem tudo que volta encontra o que deixou. Nunca tente mentir pra mim, porque vou fingir que estou acreditando até a melhor oportunidade de jogar a verdade na tua cara. Tenho ciúmes do que é meu, do que não é meu, do que eu quero que seja meu, do já foi meu e do que nunca foi meu.");
-
 }
 else if (virgem) {
     console.log(nome + ", Seu signo é Virgem, parabéns. Virginiano quer sempre carregar tudo nas costas, mesmo sabendo que não suporta. Se eu tenho uma ideia na cabeça, é mais fácil tirar a cabeça do que a ideia! Aprendi que independente de quem você realmente é, as pessoas vão te enxergar como elas quiserem. Se não for para fazer perfeito, eu nem faço!");
@@ -58,4 +59,7 @@ else if (aquario) {
 }
 else if (peixes) {
     console.log(nome + ", Seu signo é Peixes, parabéns. Os piscianos perdoam quantas vezes forem preciso, mas jamais voltam a confiar! Peço desculpas pela intensidade. Tudo para mim é multiplicado por cem, das dores aos amores. Ela é pisciana, mergulha dos pés à alma!");
+}
+else {
+    console.log("Se você não recebeu sua mensagem sobre o seu signo, você digitou algo errado :C")
 }

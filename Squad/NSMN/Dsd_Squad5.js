@@ -17,14 +17,14 @@ var pergunta = prompt("Qual comodo deseja verificar? ");
 if (pergunta == comodo[0]){
 console.log("O " + pergunta + " está limpo. ");
 }
-if (pergunta == comodo[1]){
-    console.log("O " + pergunta + " está limpa. ");
-    }
-    if (pergunta == comodo[2]){
+else if  (pergunta == comodo[1]){
+    console.log("A " + pergunta + " está limpa. ");
+}
+    else if (pergunta == comodo[2]){
         console.log("O " + pergunta + " está limpo. ");
-        }
-        if (pergunta == comodo[3]){
-            console.log("O " + pergunta + " está limpo. ");
+    }
+        else if(pergunta == comodo[3]){
+            console.log("A " + pergunta + " não está limpa. ");
             } else {
                 console.log("O " + pergunta + " não está limpo.")
             }
