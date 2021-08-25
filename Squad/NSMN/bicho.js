@@ -16,8 +16,9 @@ const prompt = require("prompt-sync")();
 
 console.log('Olá. Você já sonhou com animais? Mesmo sendo uma IA, eu penso em vários animais. Será que o animal que você sonhou é o mesmo que o meu?\nAbaixo teremos uma lista numerada de animais. Escolha um número e vamos brincar!\n');
 do {
-    var numero = prompt('Escolha \n1-  🐣  | 2 - 🦅  | 3 - 🐴  |  4 - 🦋 | 5 -  🐶 | \n6 - 🐐  | 7 - 🐏  | 8 - 🐪  | 9 - 🐍  | 10 - 🐰 | \n11 - 🐎 | 12 - 🐘 | 13 - 🐓 | 14 - 🐱 | 15 - 🐊 | \n16 - 🦁 | 17 - 🐒 | 18 - 🐷 | 19 - 🦚 | 20 - 🦃 | \n21 - 🐂 | 22 - 🐯 | 23 - 🐻 | 24 - 🦌 | 25 - 🐄 |\n');
-    var animalSorteado = Math.random() * 9 + 1;
+    console.log('Escolha \n1-  🐣  | 2 - 🦅  | 3 - 🐴  |  4 - 🦋 | 5 -  🐶 | \n6 - 🐐  | 7 - 🐏  | 8 - 🐪  | 9 - 🐍  | 10 - 🐰 | \n11 - 🐎 | 12 - 🐘 | 13 - 🐓 | 14 - 🐱 | 15 - 🐊 | \n16 - 🦁 | 17 - 🐒 | 18 - 🐷 | 19 - 🦚 | 20 - 🦃 | \n21 - 🐂 | 22 - 🐯 | 23 - 🐻 | 24 - 🦌 | 25 - 🐄 |\n');
+    var numero = prompt();
+    var animalSorteado = Math.random() * 25 + 1;
     animalSorteado = Math.floor(animalSorteado);
     switch (animalSorteado) {        
         case 1: resultado = "O animal que eu sonhei foi: 🐣 Avestruz"; break;
