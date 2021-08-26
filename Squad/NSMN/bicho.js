@@ -1,5 +1,11 @@
 /*
-Desafio - Squad 4
+# Serratec - Lógica de Programação
+Lógica de Programação - Prof. Moises do Amaral Baddini
+Atividade: Elicitação de Requisitos
+Squad de Origem (Requisito): Rock n' Beer (Squad 4)
+Autor (Descrição): Gustavo J. Barros
+Arquivo: sonhoAnimais.js
+Elaboração do Requisito: 22/08/2021
 
 Sempre tem aquela pessoa que sonha com algum animal e alguém fala para você jogar.
 Como a IA costuma ter a cabeça nas nuvens, ela pode sonhar também com vários animais e diversas vezes. 

@@ -1,4 +1,12 @@
 /*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Daniel Cesar
+● Squad de Origem (Requisito): GPS - Group of Programming Students (Squad 1)
+● Arquivo: signos.js
+● Data: 22/08/2021
+## Descrição:
 Solicite o nome e a data de nascimento do usuário. Com essas informações, será gerado o
 signo e uma descrição genérica e aleatória de sua personalidade.
 */

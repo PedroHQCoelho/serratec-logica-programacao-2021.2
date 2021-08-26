@@ -1,4 +1,12 @@
 /*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Leandro Fita
+● Squad de Origem (Requisito): Esquadrão TICida (Squad 2)
+● Arquivo: maquinaRefrigerante.js
+● Data: 22/08/2021
+
 Uma famosa empresa de refrigerantes precisa de um software para rodar no console das
 suas novas máquinas pela cidade. O cliente precisa que o console máquina de refrigerante
 exiba quatro opções de sabores diferentes, ficando a critério do(a) desenvolvedor(a) exibir

@@ -1,4 +1,13 @@
-/*Implemente um programa que receba do usuário o valor do salário bruto de um
+/*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Pedro Coelho
+● Squad de Origem (Requisito): Time NSMN (Squad 6)
+● Arquivo: salario.js
+● Data: 22/08/2021
+
+Implemente um programa que receba do usuário o valor do salário bruto de um
 funcionário e imprima o valor com descontos de INSS, FGTS e Plano de Saúde. O programa
 deve utilizar uma função para calcular cada um dos descontos, sendo que estas funções
 devem receber o valor do salário bruto e retornar o valor a ser descontado. Os valores

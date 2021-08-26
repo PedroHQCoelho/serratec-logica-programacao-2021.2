@@ -1,4 +1,12 @@
-/* 
+/*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Rodrigo de Paula Ribeiro
+● Squad de Origem (Requisito): Time NSMN (Squad 6)
+● Arquivo: axieinfinity.js
+● Data: 22/08/2021
+
 Cliente precisa de um programa para obter informações a respeito dos elementos dos seus Axies.
 O programa deve informar qual elemento do Axie é mais forte e mais fraco sobre o outro no jogo Axie Infinity
 ("Beast", "Bug" e "Mech) < ("Aquatic", "Bird" e "Dawn") <("Reptile", "Plant" e "Dusk") < ("Beast", "Bug" e "Mech)

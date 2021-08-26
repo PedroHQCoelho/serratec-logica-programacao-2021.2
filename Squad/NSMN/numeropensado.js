@@ -1,4 +1,12 @@
 /*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Angelita
+● Squad de Origem (Requisito): Time NSMN (Squad 6)
+● Arquivo: rpg.js
+● Data: 22/08/2021
+
 "UM DESAFIO" : Tente adivinhar qual o numero que eu estouto pensando?
  Você tem três chance para acertar, (de 0 - 20). 
  Se a pessoa acertar "Parabéns! Você é esperto. Se a pessoa errar "

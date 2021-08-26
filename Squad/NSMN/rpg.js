@@ -1,4 +1,12 @@
-/*Desafio - Adrian
+/*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Adrian Menezes
+● Squad de Origem (Requisito): Time NSMN (Squad 6)
+● Arquivo: rpg.js
+● Data: 22/08/2021
+
 Um dia Adrian foi jogar D&D (Dungeons & Dragons) na casa de um amigo, mas adrian esqueceu seus dados, que são essenciais para o desenrolar do jogo. 
 Adrian agora precisa criar um programa(DiceRoll) para rolar os dados do jogo, sendo eles 
 "d4"(dado de quatro lados),"d6"(dado de seis lados),"d8"(dado de oito lados),"d10"(dado de dez lados),"d12"(dado de doze lados,"d20"(dado de vinte lados).

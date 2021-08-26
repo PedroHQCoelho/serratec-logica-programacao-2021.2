@@ -1,4 +1,12 @@
 /*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Luciana Gasparini
+● Squad de Origem (Requisito): DevAneios (Squad 3)
+● Arquivo: calculadoradepagdeleitura.js
+● Data: 22/08/2021
+
 Calculadora de Páginas de leitura vs. Deadline (prazo final)
 O algoritmo proposto deve funcionar da seguinte maneira:
 Deve cumprimentar de forma simples o usuário, sem a necessidade de saber quem está sendo saudado.
@@ -51,9 +59,16 @@ if (paginasLivroLendo <= 100) {
 
 if ((livroLendo == recomendacao1) || (livroLendo == recomendacao2)){
     console.log ("Que conscidência! Nós íamos sugerir exatamente o mesmo livro que você está lendo.");
+    if (livroLendo == recomendacao1){
+        console.log("Aceita uma sugestão? ");
+        console.log("Que tal começar a ler um novo livro após esse? Você também pode gostar desse livro: " + recomendacao2);}
+    else{
+        console.log("Aceita uma sugestão? ");
+        console.log("Que tal começar a ler um novo livro após esse? Você também pode gostar desse livro: " + recomendacao2);
+    }
 } else {
     console.log("Aceita uma sugestão? ");
-    console.log("Que tal começar a ler um novo livro após esse? Você também pode gostar desse livro: " + recomendacao1)
+    console.log("Que tal começar a ler um novo livro após esse? Você também pode gostar desse livro: " + recomendacao1);
 }
 
 

@@ -1,4 +1,12 @@
-/*Desafio - Raquel
+/*
+# Serratec - Parque Tecnológico Região Serrana
+● Lógica de Programação - Prof. Moises do Amaral Baddini
+● Atividade: Elicitação de Requisitos
+● Autor (Descrição): Raquel Machado
+● Squad de Origem (Requisito): Time NSMN (Squad 6)
+● Arquivo: calculadoradepagdeleitura.js
+● Data: 22/08/2021
+
 E então um milagre aconteceu e em uma linda sexta-feira, o nosso bebê nasceu.
 Uau! Que incrível, nossa família cresceu! Somos papais de primeira viagem!
 Mas espera um pouco aí, o que eu faço agora? Que choro é esse?
